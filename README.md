@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aboubaker</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
+<p align="center">As a full-stack developer, I am passionate about learning and improving my skills in the field. I have experience with front-end and back-end technologies such as HTML, CSS, JavaScript, PHP, and SQL. I am always eager to explore new technologies and push myself to be the best developer I can be. I started learning full-stack development in 2021 and have been hooked ever since. I am excited to share my projects and collaborate with others on GitHub. If you share a similar passion for tech and are open to connecting with other professionals in the industry, please feel free to check out my GitHub profile and reach out to me. I am always looking for new opportunities to learn and collaborate with others in the field.</p>
 
 - 👨‍💻 All of my projects are available at [aboubaker.netlify.app](aboubaker.netlify.app)
 
