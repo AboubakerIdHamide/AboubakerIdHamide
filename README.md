@@ -4,3 +4,5 @@
 - 👨‍💻 All my projects are available at <a href="https://aboubaker.netlify.app"> aboubaker.netlify.app </a>
 
 - 📫 How to reach me **aboubakeridbsn@gmail.com**
+  
+- 💻 Hire me on Upwork <a href="https://upwork.com/freelancers/aboubaker">upwork.com/freelancers/aboubaker</a>
