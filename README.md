@@ -6,3 +6,5 @@
 - 📫 How to reach me **aboubakeridbsn@gmail.com**
   
 - 💻 Hire me on Upwork <a href="https://upwork.com/freelancers/aboubaker">upwork.com/freelancers/aboubaker</a>
+
+[![aboubaker's GitHub | Stats](https://stats.quine.sh/aboubaker/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=aboubaker)
